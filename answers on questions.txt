@@ -1,0 +1,8 @@
+1. Как преобразовать массив numpy в pandas DataFrame?
+df = pd.DataFrame(array)
+2. Как мы можем преобразовать DataFrame в массив NumPy?
+df.to_numpy()
+3. Как преобразовать строку в дату?
+pd.to_datetime(df['col'], format="%Y%m%d %H%M%S")
+4.Как вы создадите пустой DataFrame в Pandas?
+pd.DataFrame()
