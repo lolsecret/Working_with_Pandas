@@ -5,7 +5,7 @@ import dash
 import dash_html_components as html
 import pandas as pd
 
-df = pd.read_excel('task_5_input.xlsx')
+df = pd.read_excel('task_4_input.xlsx')
 
 
 def generate_table(dataframe, max_rows=10):
