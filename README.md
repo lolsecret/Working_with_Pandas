@@ -1,7 +1,7 @@
 ##### **Запуск**
 1. Создание вирт. окружения - python3 -m venv venv
 2. Подключение к вирт. окружению - source venv/bin/actitvate
-3. Скачивание пакетов - pip install -r requirement.txt
+3. Скачивание пакетов - pip install -r requirements.txt
 4. Для запуска программы (1-3 задачи) - python tasks.py
    
     • Ввести номер задачи
